@@ -1,0 +1,11 @@
+﻿cle,fichier,role,theme,format,taille_ko,lignes,colonnes,periode,cles_geographiques,completude_pct,doublons_exacts,sha256
+immatriculations,observationdata-akkouh.csv,Immatriculations annuelles par type de véhicule,Mobilité,"CSV (UTF-8, séparateur virgule)",27.2000,264,5,1990–2022,aucune (national),100.0000,0,17499e185a4a4820
+immat_detail,observationdata-wklhvw.csv,Immatriculations détaillées (deux-roues par cylindrée),Mobilité,"CSV (UTF-8, séparateur virgule)",7.5000,70,5,2013–2019,aucune (national),100.0000,0,905b3601c8f8cdb2
+national,observationdata-hxdpzbg.csv,"Séries nationales : accidents, décès, blessés, trafic, fret, permis",Sécurité routière,"CSV (UTF-8, séparateur virgule)",16.4000,209,4,1990–2022,aucune (national),100.0000,0,d62d40fc7af7cb96
+permis,observationdata-wvtolmb.csv,Permis de conduire délivrés par catégorie,Mobilité,"CSV (UTF-8, séparateur virgule)",13.8000,106,5,2007–2022,aucune (national),100.0000,0,6fa2dc76edfc244a
+population,observationdata-kwwolwb.csv,Population résidente 2022 par découpage administratif (RGPH-5),Dénominateurs,"CSV (UTF-8, séparateur virgule)",81.0000,759,6,2022,découpage administratif (libellé),100.0000,0,c8ff9ac04547c20a
+etat_routes,observationdata-tmdtnad.csv,"État du réseau routier par tronçon (km, 2020)",Infrastructure,"CSV (UTF-8, séparateur virgule)",29.7000,371,6,2020,tronçon (libellé),100.0000,0,cf3e27d46cfc1bf8
+routes_geo,file-routes-routes-classees-18-12-2024-20-38-02.csv,Géométries des routes classées (segments géolocalisés),Infrastructure,"CSV (UTF-8, séparateur virgule)",5598.9000,799,11,—,"région, préfecture, commune, canton, géométrie WKT",99.9800,0,a5baa8513e9e8b63
+auto_ecoles,file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,Auto-écoles géolocalisées et statut d'agrément,Formation,"CSV (UTF-8, séparateur virgule)",74.0000,272,12,—,"région, préfecture, commune, canton, géométrie WKT",100.0000,0,a96cdb19a1e0dbfb
+dict_routes,routes-routes-classees.csv,Dictionnaire des champs « routes classées »,Métadonnées,"CSV (UTF-8, séparateur virgule)",1.0000,24,5,—,aucune (national),85.8300,0,16639feb634e5ab9
+dict_auto_ecoles,entreprises-auto-ecoles.csv,Dictionnaire des champs « auto-écoles »,Métadonnées,"CSV (UTF-8, séparateur virgule)",5.6000,83,5,—,aucune (national),98.8000,0,a5c2cb7d4c2811b5

@@ -1,0 +1,25 @@
+No.,Nom du champ,Question,Description,Type du champ
+1,region_nom_bdd,,xsd:string,string
+2,prefecture_nom_bdd,,xsd:string,string
+3,commune_nom_bdd,,xsd:string,string
+4,canton_nom_bdd,,xsd:string,string
+5,id,,xsd:int,int
+6,canton_id_bdd,ID du canton,xsd:string,string
+7,zone_inondable,,xsd:string,string
+8,route_largeur,,xsd:number,number
+9,voies_nbr,,xsd:int,int
+10,route_type,,xsd:string,string
+11,route_classee,,xsd:string,string
+12,route_recouvrement,,xsd:string,string
+13,route_praticable,,xsd:string,string
+14,remarques,,xsd:string,string
+15,date_collecte,Date de la collecte,xsd:string,string
+16,date_mise_a_jour_collecte,Date de la mise à jour,xsd:string,string
+17,geometry,Géométrie,gml:MultiLineString,MultiLineString
+18,autre_canton_id,Autre ID canton,xsd:string,string
+19,route_id_collecte,ID textuel de la route,xsd:string,string
+20,route_nom,Nom de la route,xsd:string,string
+21,tracon_ordre,,xsd:int,int
+22,kilometrage_debut,,xsd:number,number
+23,kilometrage_fin,,xsd:number,number
+24,troncon_longueur_km,,xsd:number,number

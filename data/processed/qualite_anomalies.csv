@@ -1,0 +1,21 @@
+﻿source,element,type,detail,traitement
+Population,AMOU 2,Libellé dupliqué,Deuxième commune « AMOU 2 » dans la préfecture AMOU,Renommée « AMOU 3 » (somme des communes = population de la préfecture)
+Population,EST-MONO 1,Libellé dupliqué,Deuxième commune « EST-MONO 1 » dans la préfecture EST-MONO,Renommée « EST-MONO 3 » (somme des communes = population de la préfecture)
+Immatriculations,Nature de la série,Ambiguïté de définition,"Libellé source « parc automobile immatriculé » ; les valeurs annuelles fluctuent (ex. 1993 : 4 349 contre 7 250 en 1992), ce qui correspond à des flux d'immatriculations et non à un stock cumulé",Série traitée comme immatriculations de l'année (flux) ; aucun parc en circulation n'est estimé
+Immatriculations,Deux-roues — 1995,Rupture de niveau,"1 887 en 1994 → 13 883 en 1995 (× 7,4)",Valeur conservée ; changement probable de périmètre ou de méthode de collecte
+Séries nationales,Accidents mortels /100.000 hab,Libellé erroné,Le taux publié rapporte l'ensemble des accidents (et non les seuls accidents mortels) à la population,Renommé « Accidents pour 100 000 habitants » ; valeurs inchangées
+Séries nationales,Taux publié 2010,Valeur arrondie,"Taux publié entier (50) : population implicite 6 202 000 hab., quasi identique à l'année suivante",Taux de décès de cette année calculé avec ce dénominateur ; précision réduite signalée
+Séries nationales,Accidents — 2010,Valeur atypique,"3 101 contre 8 022 en médiane sur les années voisines (× 0,4)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Séries nationales,Accidents — 2015,Valeur atypique,"2 851 contre 5 392 en médiane sur les années voisines (× 0,5)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Permis de conduire,Total 2013,Manquant codé en zéro,Total = 0 sans aucune ligne par catégorie ; l'année 2013 est aussi absente de la série nationale,"Recodé en valeur manquante (exclu des calculs, affiché comme lacune)"
+Permis de conduire,F · Véhicule spécial,Zéros observés,Aucun permis F de 2007 à 2014,Zéros conservés (valeurs déclarées)
+Permis de conduire,A · Moto — 2019,Valeur atypique,"2 425 contre 274 en médiane sur les années voisines (× 8,9)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Permis de conduire,A · Moto — 2022,Valeur atypique,"4 837 contre 224 en médiane sur les années voisines (× 21,6)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Permis de conduire,B · Véhicule léger — 2016,Rupture de niveau,"7 193 en 2015 → 23 467 en 2016 (× 3,3)",Valeur conservée ; changement probable de périmètre ou de méthode de collecte
+Permis de conduire,C · Poids lourd — 2015,Valeur atypique,"308 contre 1 184 en médiane sur les années voisines (× 0,3)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Permis de conduire,E · Semi-remorque — 2016,Valeur atypique,"2 635 contre 816 en médiane sur les années voisines (× 3,2)",Valeur conservée et signalée sur les graphiques ; à confirmer auprès du producteur
+Permis de conduire,E · Semi-remorque — 2017,Rupture de niveau,"370 en 2015 → 1 514 en 2017 (× 4,1)",Valeur conservée ; changement probable de périmètre ou de méthode de collecte
+Routes classées (géométries),45 segments,Incohérence type / revêtement,"Type « revêtue » avec revêtement en terre ou gravier, ou l'inverse",Conservés ; le type de route déclaré fait foi pour les agrégats par catégorie
+Routes classées (géométries),8 segments,Nombre de voies = 0,Valeur impossible pour une route ouverte,Recodé en valeur manquante
+Routes classées (géométries),2 segments,Nom de route manquant,Champ route_nom vide,"Libellé « Route sans nom » ; segment conservé, non rattachable à un tronçon évalué"
+Routes classées (géométries),3 segments,Segment de longueur quasi nulle,Moins de 10 m,Conservés

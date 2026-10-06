@@ -1,0 +1,232 @@
+﻿annee,type,famille,valeur
+1990,Autocars et autobus,Transport collectif,59
+1990,Camionnettes,Utilitaires légers,1106
+1990,Camions,Poids lourds,195
+1990,Deux-roues,Deux-roues,1513
+1990,Semi-remorques,Poids lourds,63
+1990,Tracteurs routiers,Poids lourds,79
+1990,Voitures,Voitures,3814
+1991,Autocars et autobus,Transport collectif,31
+1991,Camionnettes,Utilitaires légers,1052
+1991,Camions,Poids lourds,197
+1991,Deux-roues,Deux-roues,1601
+1991,Semi-remorques,Poids lourds,91
+1991,Tracteurs routiers,Poids lourds,93
+1991,Voitures,Voitures,4004
+1992,Autocars et autobus,Transport collectif,32
+1992,Camionnettes,Utilitaires légers,891
+1992,Camions,Poids lourds,211
+1992,Deux-roues,Deux-roues,1641
+1992,Semi-remorques,Poids lourds,75
+1992,Tracteurs routiers,Poids lourds,100
+1992,Voitures,Voitures,4300
+1993,Autocars et autobus,Transport collectif,3
+1993,Camionnettes,Utilitaires légers,535
+1993,Camions,Poids lourds,153
+1993,Deux-roues,Deux-roues,982
+1993,Semi-remorques,Poids lourds,42
+1993,Tracteurs routiers,Poids lourds,57
+1993,Voitures,Voitures,2577
+1994,Autocars et autobus,Transport collectif,29
+1994,Camionnettes,Utilitaires légers,710
+1994,Camions,Poids lourds,166
+1994,Deux-roues,Deux-roues,1887
+1994,Semi-remorques,Poids lourds,41
+1994,Tracteurs routiers,Poids lourds,64
+1994,Voitures,Voitures,3227
+1995,Autocars et autobus,Transport collectif,15
+1995,Camionnettes,Utilitaires légers,853
+1995,Camions,Poids lourds,204
+1995,Deux-roues,Deux-roues,13883
+1995,Semi-remorques,Poids lourds,71
+1995,Tracteurs routiers,Poids lourds,82
+1995,Voitures,Voitures,6728
+1996,Autocars et autobus,Transport collectif,16
+1996,Camionnettes,Utilitaires légers,1296
+1996,Camions,Poids lourds,325
+1996,Deux-roues,Deux-roues,15383
+1996,Semi-remorques,Poids lourds,143
+1996,Tracteurs routiers,Poids lourds,153
+1996,Voitures,Voitures,6239
+1997,Autocars et autobus,Transport collectif,28
+1997,Camionnettes,Utilitaires légers,1850
+1997,Camions,Poids lourds,375
+1997,Deux-roues,Deux-roues,14445
+1997,Semi-remorques,Poids lourds,70
+1997,Tracteurs routiers,Poids lourds,84
+1997,Voitures,Voitures,7503
+1998,Autocars et autobus,Transport collectif,35
+1998,Camionnettes,Utilitaires légers,1787
+1998,Camions,Poids lourds,545
+1998,Deux-roues,Deux-roues,10603
+1998,Semi-remorques,Poids lourds,89
+1998,Tracteurs routiers,Poids lourds,140
+1998,Voitures,Voitures,7470
+1999,Autocars et autobus,Transport collectif,26
+1999,Camionnettes,Utilitaires légers,1566
+1999,Camions,Poids lourds,501
+1999,Deux-roues,Deux-roues,12917
+1999,Semi-remorques,Poids lourds,104
+1999,Tracteurs routiers,Poids lourds,147
+1999,Voitures,Voitures,8642
+2000,Autocars et autobus,Transport collectif,30
+2000,Camionnettes,Utilitaires légers,1456
+2000,Camions,Poids lourds,460
+2000,Deux-roues,Deux-roues,10639
+2000,Semi-remorques,Poids lourds,102
+2000,Tracteurs routiers,Poids lourds,139
+2000,Voitures,Voitures,7154
+2001,Autocars et autobus,Transport collectif,32
+2001,Camionnettes,Utilitaires légers,1567
+2001,Camions,Poids lourds,497
+2001,Deux-roues,Deux-roues,8500
+2001,Semi-remorques,Poids lourds,141
+2001,Tracteurs routiers,Poids lourds,132
+2001,Voitures,Voitures,8469
+2002,Autocars et autobus,Transport collectif,29
+2002,Camionnettes,Utilitaires légers,1671
+2002,Camions,Poids lourds,483
+2002,Deux-roues,Deux-roues,8632
+2002,Semi-remorques,Poids lourds,122
+2002,Tracteurs routiers,Poids lourds,116
+2002,Voitures,Voitures,9500
+2003,Autocars et autobus,Transport collectif,21
+2003,Camionnettes,Utilitaires légers,1359
+2003,Camions,Poids lourds,884
+2003,Deux-roues,Deux-roues,12130
+2003,Semi-remorques,Poids lourds,248
+2003,Tracteurs routiers,Poids lourds,240
+2003,Voitures,Voitures,13991
+2004,Autocars et autobus,Transport collectif,17
+2004,Camionnettes,Utilitaires légers,1681
+2004,Camions,Poids lourds,608
+2004,Deux-roues,Deux-roues,33980
+2004,Semi-remorques,Poids lourds,229
+2004,Tracteurs routiers,Poids lourds,249
+2004,Voitures,Voitures,11430
+2005,Autocars et autobus,Transport collectif,18
+2005,Camionnettes,Utilitaires légers,955
+2005,Camions,Poids lourds,770
+2005,Deux-roues,Deux-roues,27791
+2005,Semi-remorques,Poids lourds,248
+2005,Tracteurs routiers,Poids lourds,324
+2005,Voitures,Voitures,11308
+2006,Autocars et autobus,Transport collectif,28
+2006,Camionnettes,Utilitaires légers,1305
+2006,Camions,Poids lourds,681
+2006,Deux-roues,Deux-roues,35760
+2006,Semi-remorques,Poids lourds,221
+2006,Tracteurs routiers,Poids lourds,279
+2006,Voitures,Voitures,10961
+2007,Autocars et autobus,Transport collectif,22
+2007,Camionnettes,Utilitaires légers,1267
+2007,Camions,Poids lourds,652
+2007,Deux-roues,Deux-roues,34454
+2007,Semi-remorques,Poids lourds,192
+2007,Tracteurs routiers,Poids lourds,213
+2007,Voitures,Voitures,10692
+2008,Autocars et autobus,Transport collectif,18
+2008,Camionnettes,Utilitaires légers,1075
+2008,Camions,Poids lourds,824
+2008,Deux-roues,Deux-roues,44409
+2008,Semi-remorques,Poids lourds,247
+2008,Tracteurs routiers,Poids lourds,253
+2008,Voitures,Voitures,10989
+2009,Autocars et autobus,Transport collectif,36
+2009,Camionnettes,Utilitaires légers,1403
+2009,Camions,Poids lourds,765
+2009,Deux-roues,Deux-roues,36277
+2009,Semi-remorques,Poids lourds,304
+2009,Tracteurs routiers,Poids lourds,376
+2009,Voitures,Voitures,5751
+2010,Autocars et autobus,Transport collectif,96
+2010,Camionnettes,Utilitaires légers,1542
+2010,Camions,Poids lourds,1382
+2010,Deux-roues,Deux-roues,38638
+2010,Semi-remorques,Poids lourds,741
+2010,Tracteurs routiers,Poids lourds,750
+2010,Voitures,Voitures,6229
+2011,Autocars et autobus,Transport collectif,97
+2011,Camionnettes,Utilitaires légers,2219
+2011,Camions,Poids lourds,1939
+2011,Deux-roues,Deux-roues,42283
+2011,Semi-remorques,Poids lourds,978
+2011,Tracteurs routiers,Poids lourds,751
+2011,Voitures,Voitures,7256
+2012,Autocars et autobus,Transport collectif,102
+2012,Camionnettes,Utilitaires légers,1986
+2012,Camions,Poids lourds,2434
+2012,Deux-roues,Deux-roues,43757
+2012,Semi-remorques,Poids lourds,894
+2012,Tracteurs routiers,Poids lourds,1058
+2012,Voitures,Voitures,9056
+2013,Autocars et autobus,Transport collectif,94
+2013,Camionnettes,Utilitaires légers,2311
+2013,Camions,Poids lourds,2286
+2013,Deux-roues,Deux-roues,41830
+2013,Semi-remorques,Poids lourds,1032
+2013,Tracteurs routiers,Poids lourds,1148
+2013,Voitures,Voitures,9402
+2014,Autocars et autobus,Transport collectif,103
+2014,Camionnettes,Utilitaires légers,2533
+2014,Camions,Poids lourds,2506
+2014,Deux-roues,Deux-roues,51134
+2014,Semi-remorques,Poids lourds,1130
+2014,Tracteurs routiers,Poids lourds,1258
+2014,Voitures,Voitures,10304
+2015,Autocars et autobus,Transport collectif,87
+2015,Camionnettes,Utilitaires légers,3229
+2015,Camions,Poids lourds,1120
+2015,Deux-roues,Deux-roues,65599
+2015,Semi-remorques,Poids lourds,493
+2015,Tracteurs routiers,Poids lourds,720
+2015,Voitures,Voitures,14500
+2016,Autocars et autobus,Transport collectif,62
+2016,Camionnettes,Utilitaires légers,2923
+2016,Camions,Poids lourds,791
+2016,Deux-roues,Deux-roues,45341
+2016,Semi-remorques,Poids lourds,394
+2016,Tracteurs routiers,Poids lourds,530
+2016,Voitures,Voitures,14079
+2017,Autocars et autobus,Transport collectif,73
+2017,Camionnettes,Utilitaires légers,3149
+2017,Camions,Poids lourds,883
+2017,Deux-roues,Deux-roues,41187
+2017,Semi-remorques,Poids lourds,569
+2017,Tracteurs routiers,Poids lourds,780
+2017,Voitures,Voitures,14328
+2018,Autocars et autobus,Transport collectif,83
+2018,Camionnettes,Utilitaires légers,3224
+2018,Camions,Poids lourds,897
+2018,Deux-roues,Deux-roues,43063
+2018,Semi-remorques,Poids lourds,631
+2018,Tracteurs routiers,Poids lourds,841
+2018,Voitures,Voitures,15607
+2019,Autocars et autobus,Transport collectif,133
+2019,Camionnettes,Utilitaires légers,3682
+2019,Camions,Poids lourds,960
+2019,Deux-roues,Deux-roues,54873
+2019,Semi-remorques,Poids lourds,638
+2019,Tracteurs routiers,Poids lourds,856
+2019,Voitures,Voitures,18072
+2020,Autocars et autobus,Transport collectif,91
+2020,Camionnettes,Utilitaires légers,4085
+2020,Camions,Poids lourds,1407
+2020,Deux-roues,Deux-roues,44850
+2020,Semi-remorques,Poids lourds,816
+2020,Tracteurs routiers,Poids lourds,1105
+2020,Voitures,Voitures,16386
+2021,Autocars et autobus,Transport collectif,101
+2021,Camionnettes,Utilitaires légers,4941
+2021,Camions,Poids lourds,1380
+2021,Deux-roues,Deux-roues,65363
+2021,Semi-remorques,Poids lourds,764
+2021,Tracteurs routiers,Poids lourds,1082
+2021,Voitures,Voitures,20313
+2022,Autocars et autobus,Transport collectif,145
+2022,Camionnettes,Utilitaires légers,4626
+2022,Camions,Poids lourds,1241
+2022,Deux-roues,Deux-roues,67639
+2022,Semi-remorques,Poids lourds,793
+2022,Tracteurs routiers,Poids lourds,1195
+2022,Voitures,Voitures,18131

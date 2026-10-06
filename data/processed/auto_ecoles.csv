@@ -1,0 +1,273 @@
+﻿id,region,prefecture_key,prefecture,commune,canton,localite,nom,agrement,agree,adresse,jours_ouverture,lon,lat,dans_prefecture_declaree,prefecture_spatiale
+7111a9c0_19415ae4b4d_720d,Centrale,TCHAOUDJO,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Didaure,Auto-école Nouvelle,Agréée,True,,6.0000,1.1381,8.9832,True,TCHAOUDJO
+7111a9c0_19415ae4b4d_720e,Centrale,BLITTA,Blitta,Blitta 1,Pagala-Gare,Pagala Gare,Auto-école la Prudence Pagala Gare,Non agréée,False,,6.0000,0.9880,8.1776,True,BLITTA
+7111a9c0_19415ae4b4d_720f,Centrale,BLITTA,Blitta,Blitta 1,Blitta,Blitta Dépôt,Auto-école la Nouvelle Blitta,Non agréée,False,BP 09 Blitta,6.0000,0.9830,8.3282,True,BLITTA
+7111a9c0_19415ae4b4d_7210,Centrale,SOTOUBOUA,Sotouboua,Sotouboua 1,Sotouboua,Sotouboua (grand Marché),Auto-école Pugnus Dei Sotouboua,Antenne agréée,True,70158479/96857921,6.0000,0.9850,8.5574,True,SOTOUBOUA
+7111a9c0_19415ae4b4d_7211,Centrale,SOTOUBOUA,Sotouboua,Sotouboua 1,Sotouboua,Sotouboua (kpétéyo),Auto-école le leader Sotouboua,Non agréée,False,90788065,6.0000,0.9875,8.5578,True,SOTOUBOUA
+7111a9c0_19415ae4b4d_7212,Centrale,SOTOUBOUA,Sotouboua,Sotouboua 1,Sotouboua,Sotouboua (lawaye),Auto-école les Intègres,Non agréée,False,22466479/91169631,6.0000,0.9788,8.5649,True,SOTOUBOUA
+7111a9c0_19415ae4b4d_7213,Centrale,SOTOUBOUA,Sotouboua,Sotouboua 1,Sotouboua,Sotouboua (zongo),Auto-école la Référence Sotouboua,Antenne agréée,True,90770970,6.0000,0.9758,8.5606,True,SOTOUBOUA
+7111a9c0_19415ae4b4d_7214,Plateaux,KPELE,Kpélé,Kpélé 1,Kpélé-Novivé,Adeta,Auto-école,Non agréée,False,,,0.7296,7.1306,True,KPELE
+7111a9c0_19415ae4b4d_7215,Centrale,TCHAMBA,Tchamba,Tchamba 1,Tchamba,Wassouwa,Auto-école la Nouvelle Wassouwa,Non agréée,False,90981828/98393151,6.0000,1.4229,9.0265,True,TCHAMBA
+7111a9c0_19415ae4b4d_7216,Centrale,TCHAMBA,Tchamba,Tchamba 3,Kaboli,Djama,Auto-école la Nouvelle Djama,Non agréée,False,90981828/98393151,6.0000,1.5866,8.7510,True,TCHAMBA
+7111a9c0_19415ae4b4d_7217,Centrale,TCHAOUDJO,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Akamade,Auto-école à Dieu la Gloire Akamadé,Antenne agréée,True,,5.0000,1.1167,8.9899,True,TCHAOUDJO
+7111a9c0_19415ae4b4d_7218,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Lomegan,Auto-école l'Identite,Agréée,True,,,1.2055,6.1820,True,GOLFE
+7111a9c0_19415ae4b4d_7219,Centrale,TCHAOUDJO,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Tchawanda,Auto-école Mawena,Non agréée,False,,6.0000,1.1331,8.9874,True,TCHAOUDJO
+7111a9c0_19415ae4b4d_721a,Centrale,TCHAOUDJO,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Komah 2,Auto-école Sourou,Non agréée,False,,,1.1441,8.9771,True,TCHAOUDJO
+7111a9c0_19415ae4b4d_721b,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Kpogan,Auto-école Luli,Non agréée,False,Agodeké,6.0000,1.3694,6.1867,True,GOLFE
+7111a9c0_19415ae4b4d_721c,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Avepozo,Auto-école Tu es Mon Berger,Non agréée,False,,6.0000,1.3497,6.1798,True,GOLFE
+7111a9c0_19415ae4b4d_721d,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Avekpozo,Auto-école Damaris Avépozo,Antenne agréée,True,,6.0000,1.3443,6.1696,True,GOLFE
+7111a9c0_19415ae4b4d_721e,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Baguida,Auto-école Shalom Paix,Agréée,True,,5.0000,1.3080,6.1586,True,GOLFE
+7111a9c0_19415ae4b4d_721f,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Avepozo Mawuvi,Auto-école  Shalom,Non agréée,False,Avepozo Mawuvi,6.0000,1.3382,6.1770,True,GOLFE
+7111a9c0_19415ae4b4d_7220,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Agodeke,Auto-école le Rocher,Non agréée,False,,5.0000,1.3669,6.1766,True,GOLFE
+7111a9c0_19415ae4b4d_7221,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Baguida,Auto-école Bon Berger,Non agréée,False,,6.0000,1.3268,6.1719,True,GOLFE
+7111a9c0_19415ae4b4d_7222,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Agoe Zongo,Auto-école le Savoir,Agréée,True,,6.0000,1.2102,6.2702,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7223,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agoe Zongo,Auto-école Nzambe-Nzambe Agoè,Antenne agréée,True,,6.0000,1.2085,6.2520,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7224,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Zilidji,Auto-école la Vie,Non agréée,False,,6.0000,1.1992,6.2589,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7225,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Haoussa Zongo,Auto-école Alito École,Non agréée,False,,,1.2063,6.2553,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7226,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Demakpoe,Centre D'Instruction Routiere Togo,Non renseigné,False,16 BP 582,6.0000,1.1944,6.2432,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7227,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Telessou,Auto-école la Sainte Etoile,Non agréée,False,,,1.1829,6.2181,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7228,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Gbonve,Auto-école MKAF Togo,Agréée,True,01 BP 1676,,1.1875,6.2169,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7229,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Kleve,Auto-école du Golfe Klévé,Agréée,True,,6.0000,1.1981,6.2221,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sorade,Auto-école Oumar,Non agréée,False,,,1.2115,6.2322,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722b,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Atchanve,Auto-école Korgo,Agréée,True,,,1.2149,6.2250,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722c,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Anokoui,Auto-école le Courage,Non agréée,False,,6.0000,1.1799,6.2434,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722d,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Adeticope,Auto-école du Golfe Adétikopé,Antenne agréée,True,90036506/90159906,6.0000,1.2184,6.3258,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722e,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Telessou,Auto-école les Elus de Dieu,Non agréée,False,Téléssou,6.0000,1.1750,6.2257,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_722f,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Anome,Auto-école Sous les Ailes de Dieu Anomé,Antenne agréée,True,Anome,6.0000,1.1847,6.2160,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7230,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Carrefour Bleu,Auto-école du Golfe Carefour bleu,Agréée,True,Carrefour Bleu,6.0000,1.2052,6.2255,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7231,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Atchanve,Auto-école Sissonne,Non agréée,False,Atchanvé,6.0000,1.2112,6.2290,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7232,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sorade,Auto-école Caba,Non agréée,False,Sorade,6.0000,1.2128,6.2309,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7233,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Adjougba,Auto-école defi Focus,Non agréée,False,Adjougba,6.0000,1.2220,6.2264,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7234,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Adewi,Auto-école les Experts,Non agréée,False,,6.0000,1.2216,6.3152,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7235,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Amarinta,Auto-école ma Reussite Annexe Amarinta,Non agréée,False,,,1.1404,6.2476,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7236,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Cacaveli,Auto-école TNI (Togo Nouvelle Impression) Cacavéli,Antenne agréée,True,92648819/97702424,6.0000,1.1992,6.2113,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7237,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avenou,Auto-école MHJH,Non agréée,False,,6.0000,1.1914,6.1729,True,GOLFE
+7111a9c0_19415ae4b4d_7238,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Soviepe,Auto-école Baptrans,Agréée,True,12 BP 278 Lome,5.0000,1.1806,6.1779,True,GOLFE
+7111a9c0_19415ae4b4d_7239,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Legbasokpe,Auto-école du Golfe Legbasokpé,Agréée,True,,6.0000,1.1635,6.2603,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_723a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sogbossito,Auto-école Winner Sogbossito,Non agréée,False,,6.0000,1.1663,6.2576,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_723b,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Vakpossito Telessou,Auto-école St Kotey,Non agréée,False,90789684/98796009,6.0000,1.1703,6.2175,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_723c,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjolé,Auto-école J.le Rocher,Agréée,True,BP S/c3408,6.0000,1.1918,6.1897,True,GOLFE
+7111a9c0_19415ae4b4d_723d,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agbalédogan,Auto-école BAMB-SIS Agbalédogan,Agréée,True,,6.0000,1.1973,6.2016,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_723e,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Agbalepedo,Auto-école  Saint Christophe Agbalépédo,Agréée,True,,5.0000,1.1965,6.2001,True,GOLFE
+7111a9c0_19415ae4b4d_723f,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjole,Auto-école le Gold,Non agréée,False,,5.0000,1.1969,6.1827,True,GOLFE
+7111a9c0_19415ae4b4d_7240,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Agoe Telessou,Auto-école ma Reussite Téléssou,Non agréée,False,90974929/99510494,6.0000,1.1706,6.2144,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7241,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Gnamassigan,Auto-école Gnamassigan,Non agréée,False,,,1.1778,6.2665,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7242,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Legbassito,Auto-école la Gracieuse Légbassito,Antenne agréée,True,,6.0000,1.1498,6.2667,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7243,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sogbossito,Auto-école le Genie Sogbossito,Agréée,True,,6.0000,1.1753,6.2513,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7244,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Vakpossito,Auto-école Abraham Lincoln,Agréée,True,,6.0000,1.1746,6.2144,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7245,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Doumassesse,Auto-école la Liberté Doumasséssé,Agréée,True,"Doumassesse, Rue, Lomé ; BP S/c 15BP298",6.0000,1.2154,6.1634,True,GOLFE
+7111a9c0_19415ae4b4d_7246,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Lomegan,Auto-école Afrique C.A,Non agréée,False,,6.0000,1.2057,6.1842,True,GOLFE
+7111a9c0_19415ae4b4d_7247,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Tokoin Doumassesse,Auto-école le Retour,Non agréée,False,,5.0000,1.2162,6.1576,True,GOLFE
+7111a9c0_19415ae4b4d_7248,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Agbalepedo,Auto-école CF le leader,Non agréée,False,,5.0000,1.2067,6.1855,True,GOLFE
+7111a9c0_19415ae4b4d_7249,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sogbossito,Auto-école B Groupe,Non agréée,False,,6.0000,1.1774,6.2509,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_724a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Demakpoe,Auto-école Adjrad_Togo,Non agréée,False,13 BP 544,6.0000,1.1982,6.2422,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_724b,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Demakpoe,Auto-école TNI (Togo Nouvelle Impression) Démakpoè,Antenne agréée,True,,6.0000,1.2016,6.2418,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_724c,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Assiyeye,Auto-école Winner Assiyéyé,Non agréée,False,,6.0000,1.1988,6.2306,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_724d,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Soted,Auto-école Basililela Soted,Antenne agréée,True,,6.0000,1.2207,6.1524,True,GOLFE
+7111a9c0_19415ae4b4d_724e,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Doumassesse,Auto-école la Gracieuse Doumasséssé,Agréée,True,,6.0000,1.2209,6.1648,True,GOLFE
+7111a9c0_19415ae4b4d_724f,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Ramco,Auto-école Nzambe-Nzambe Ramco,Antenne agréée,True,,6.0000,1.2201,6.1433,True,GOLFE
+7111a9c0_19415ae4b4d_7250,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Forever,Auto-école Togo Express,Non agréée,False,,,1.2279,6.1624,True,GOLFE
+7111a9c0_19415ae4b4d_7251,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Hedzranawoe,Auto-école Gratia,Agréée,True,,6.0000,1.2367,6.1878,True,GOLFE
+7111a9c0_19415ae4b4d_7252,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avedji,Auto-école l'Eternel,Agréée,True,90158330,5.0000,1.1800,6.2016,True,GOLFE
+7111a9c0_19415ae4b4d_7253,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Amadahome,Auto-école Sous les Ailes de Dieu Amadahomé,Antenne agréée,True,,6.0000,1.1557,6.2004,True,GOLFE
+7111a9c0_19415ae4b4d_7254,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Woyome,Auto-école Dieudonne Wognomé,Antenne agréée,True,,6.0000,1.1448,6.2011,True,GOLFE
+7111a9c0_19415ae4b4d_7255,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Segbe,Auto-école les Amis Ségbé,Antenne agréée,True,,6.0000,1.1015,6.1997,True,GOLFE
+7111a9c0_19415ae4b4d_7256,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Segbe,Auto-école GPS Togo,Non agréée,False,,6.0000,1.1031,6.1998,True,GOLFE
+7111a9c0_19415ae4b4d_7257,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Vakpossito,Auto-école TNI (Togo Nouvelle Impression) Vakpossito,Agréée,True,22567160/90203980/92526687,6.0000,1.1616,6.2181,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7258,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Logogome,Auto-école Sainte Famille Logogomé,Antenne agréée,True,90292127/93485258/91102621,6.0000,1.1508,6.2138,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7259,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nokopé,Auto-école le Bonheur,Non agréée,False,,6.0000,1.1728,6.2382,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_725a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agoe Assiyeye,Auto-école Mercy,Non agréée,False,,5.0000,1.1910,6.2325,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_725b,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Wonyome,Auto-école la Joie Wognomé,Non agréée,False,,6.0000,1.1503,6.1914,True,GOLFE
+7111a9c0_19415ae4b4d_725c,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Wugomedekpo,Auto-école VCP,Non agréée,False,,6.0000,1.1130,6.2189,True,GOLFE
+7111a9c0_19415ae4b4d_725d,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Apedokoe,Auto-école Marcoly,Non agréée,False,,6.0000,1.1375,6.2097,True,GOLFE
+7111a9c0_19415ae4b4d_725e,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Logote,Auto-école Emmanuel Conduite,Non agréée,False,Carrefour Logote,6.0000,1.1261,6.1932,True,GOLFE
+7111a9c0_19415ae4b4d_725f,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Logote,Auto-école la Renaissance Logoté,Agréée,True,,6.0000,1.1317,6.1934,True,GOLFE
+7111a9c0_19415ae4b4d_7260,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Sagbado,Auto-école Forever,Non agréée,False,,6.0000,1.1423,6.1932,True,GOLFE
+7111a9c0_19415ae4b4d_7261,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Wonyome,Auto-école Chara,Non agréée,False,,6.0000,1.1445,6.1936,True,GOLFE
+7111a9c0_19415ae4b4d_7262,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Wonyome,Auto-école Sainte Famille Wognomé,Agréée,True,,6.0000,1.1584,6.1891,True,GOLFE
+7111a9c0_19415ae4b4d_7263,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Yokoe,Auto-école le Permis Yokoè,Non agréée,False,BP: 14267 Lomé Togo,6.0000,1.1431,6.1765,True,GOLFE
+7111a9c0_19415ae4b4d_7264,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Dassakope,Auto-école Tam 228,Non agréée,False,,6.0000,1.1598,6.2094,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7265,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Logogome,Auto-école Beraca Bered,Non agréée,False,,6.0000,1.1521,6.2177,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7266,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avedji Telessou,Auto-école KMK Téléssou,Non agréée,False,,6.0000,1.1762,6.1958,True,GOLFE
+7111a9c0_19415ae4b4d_7267,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Amadahome,Auto-école Citoyenne Inclusive,Non agréée,False,,6.0000,1.1663,6.2036,True,GOLFE
+7111a9c0_19415ae4b4d_7268,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Vakpossito,Auto-école la Capitale,Non agréée,False,,6.0000,1.1597,6.2203,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7269,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Nanegbe,Auto-école Dieudonne Nanégbé,Agréée,True,,6.0000,1.1570,6.2296,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_726a,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Atigangome,Auto-école le Reveil,Non agréée,False,,6.0000,1.1466,6.2056,True,GOLFE
+7111a9c0_19415ae4b4d_726b,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sakpleto Kope,Auto-école Groupe Chez Toi,Non agréée,False,,6.0000,1.1632,6.2438,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_726c,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Dalime,Auto-école la Nature,Non agréée,False,,,1.1626,6.2361,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_726d,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Doumassesse,Auto-école St Justin,Non agréée,False,,6.0000,1.2171,6.1550,True,GOLFE
+7111a9c0_19415ae4b4d_726e,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Forever,Auto-école L'Itineraire Forever,Agréée,True,93494613,6.0000,1.2269,6.1606,True,GOLFE
+7111a9c0_19415ae4b4d_726f,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Lome 2,Auto-école Dieu Seul Suffit,Agréée,True,,6.0000,1.2344,6.1781,True,GOLFE
+7111a9c0_19415ae4b4d_7270,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Agbalepedogan,Auto-école à Dieu la Gloire Agbalépédogan,Antenne agréée,True,,6.0000,1.1994,6.1974,True,GOLFE
+7111a9c0_19415ae4b4d_7271,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,N/a,Auto-école Gloire à Dieu Aflao-Gakli,Antenne agréée,True,,5.0000,1.1889,6.1723,True,GOLFE
+7111a9c0_19415ae4b4d_7272,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,N/a,Auto-école Saint Elie Annexe,Antenne agréée,True,,6.0000,1.1992,6.1701,True,GOLFE
+7111a9c0_19415ae4b4d_7273,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Totsi,Auto-école le leader Totsi,Non agréée,False,,5.0000,1.1885,6.1970,True,GOLFE
+7111a9c0_19415ae4b4d_7274,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Akplome,Auto-école Dieu Grace,Non agréée,False,19BP40,4.0000,1.2291,6.3213,False,ZIO
+7111a9c0_19415ae4b4d_7275,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Tsive,Auto-école  Saint Christophe Annexe Tsivé,Antenne agréée,True,,6.0000,1.2150,6.3179,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7276,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Yokoe,Auto-école Dakopas,Non agréée,False,,6.0000,1.1533,6.1806,True,GOLFE
+7111a9c0_19415ae4b4d_7277,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Agbalepedogan,Auto-école CFC Sarl,Non agréée,False,,6.0000,1.2015,6.1800,True,GOLFE
+7111a9c0_19415ae4b4d_7278,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Yokoe,Auto-école Jesus T'aime,Non agréée,False,,6.0000,1.1464,6.1783,True,GOLFE
+7111a9c0_19415ae4b4d_7279,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Awatame,Auto-école la Joie Awatamé,Non agréée,False,,6.0000,1.1624,6.1801,True,GOLFE
+7111a9c0_19415ae4b4d_727a,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Yokoe,Auto-école Bon Conducteur,Non agréée,False,A Côté De L'école Primaire Yokoe Copegan,6.0000,1.1385,6.1774,True,GOLFE
+7111a9c0_19415ae4b4d_727b,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Klikame,Auto-école Basileia Klikamé,Antenne agréée,True,,6.0000,1.1145,6.2507,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_727c,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Dekpo,Auto-école Mega Succès,Non agréée,False,,6.0000,1.1172,6.2277,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_727d,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Zopomahe,Auto-école le Génie Zopomahé,Antenne agréée,True,,6.0000,1.1475,6.2336,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_727e,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjole,Auto-école des Grape,Non agréée,False,,6.0000,1.1874,6.1834,True,GOLFE
+7111a9c0_19415ae4b4d_727f,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Agbalepedo,Auto-école la Dignite Sûr,Non agréée,False,,6.0000,1.2027,6.1945,True,GOLFE
+7111a9c0_19415ae4b4d_7280,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidogome,Auto-école Adonaï Adidogomé,Antenne agréée,True,,5.0000,1.1788,6.1766,True,GOLFE
+7111a9c0_19415ae4b4d_7281,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agbalepedogan,Auto-école L2CI,Non agréée,False,,5.0000,1.2002,6.1991,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7282,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Casablanca,Auto-école Damaris Casablanca,Agréée,True,,6.0000,1.2020,6.1486,True,GOLFE
+7111a9c0_19415ae4b4d_7283,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjole,Auto-école Feu Vert,Agréée,True,BP 333,6.0000,1.1968,6.1773,True,GOLFE
+7111a9c0_19415ae4b4d_7284,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Lomégan,Auto-école Amenouvévé,Non agréée,False,,6.0000,1.2042,6.1865,True,GOLFE
+7111a9c0_19415ae4b4d_7285,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjole,Auto-école la Renaissance Djidjolé,Agréée,True,,,1.1882,6.1815,True,GOLFE
+7111a9c0_19415ae4b4d_7286,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Djidjole,Auto-école la Vision,Non agréée,False,,5.0000,1.2022,6.1785,True,GOLFE
+7111a9c0_19415ae4b4d_7287,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Djidjole,Auto-école la Sympatique,Non agréée,False,,5.0000,1.2044,6.1761,True,GOLFE
+7111a9c0_19415ae4b4d_7288,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Totsi,Auto Ecole / Garage la Patience,Non agréée,False,,5.0000,1.1842,6.1984,True,GOLFE
+7111a9c0_19415ae4b4d_7289,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Totsi Gblinkome,Auto-école St Antoine Junior,Non agréée,False,,6.0000,1.1814,6.1918,True,GOLFE
+7111a9c0_19415ae4b4d_728a,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Djidjole,Auto-école les Prodiges,Agréée,True,BP 1853 Lome-Togo,5.0000,1.2025,6.1731,True,GOLFE
+7111a9c0_19415ae4b4d_728b,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Lomegan,Auto-école le Gar,Non agréée,False,,6.0000,1.2059,6.1803,True,GOLFE
+7111a9c0_19415ae4b4d_728c,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Totsi,Auto-école ICAE-Vie,Non agréée,False,,6.0000,1.1839,6.1980,True,GOLFE
+7111a9c0_19415ae4b4d_728d,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Gblenkome,Auto-école Djifa,Non agréée,False,,5.0000,1.1856,6.1899,True,GOLFE
+7111a9c0_19415ae4b4d_728e,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avedji,Auto-école le Creneau,Non agréée,False,BP 8798,5.0000,1.1751,6.1902,True,GOLFE
+7111a9c0_19415ae4b4d_728f,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Sagbado,Auto-école Rabbouni,Non agréée,False,BP 14008,6.0000,1.1500,6.1990,True,GOLFE
+7111a9c0_19415ae4b4d_7290,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avedji,Auto-école CFCP,Non agréée,False,,6.0000,1.1714,6.2004,True,GOLFE
+7111a9c0_19415ae4b4d_7291,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Amadahome,Auto-Ecole CV-AV,Non agréée,False,,5.0000,1.1534,6.1995,True,GOLFE
+7111a9c0_19415ae4b4d_7292,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidogome Franciscain,Auto-école la Prudence Adidogomé,Non agréée,False,,6.0000,1.1791,6.1850,True,GOLFE
+7111a9c0_19415ae4b4d_7293,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidogome,Auto-école les Amis Adidogomé,Antenne agréée,True,04 Lome 762,6.0000,1.1681,6.1815,True,GOLFE
+7111a9c0_19415ae4b4d_7294,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidogome,Auto-école Ava-Togo Adidogomé,Agréée,True,,5.0000,1.1508,6.2034,True,GOLFE
+7111a9c0_19415ae4b4d_7295,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Amadahome,Auto-école le Jalon,Agréée,True,,6.0000,1.1588,6.1987,True,GOLFE
+7111a9c0_19415ae4b4d_7296,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Adidoadin,Auto-école Merveilles de Paris,Non agréée,False,,6.0000,1.1866,6.2074,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7297,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Agbalepedogan,Auto-école Adonaï Agbalépédogan,Agréée,True,,6.0000,1.2076,6.1885,True,GOLFE
+7111a9c0_19415ae4b4d_7298,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Agbalepedogan,Auto-école Dieu Merci Agbalépédogan,Non agréée,False,,5.0000,1.1925,6.1968,True,GOLFE
+7111a9c0_19415ae4b4d_7299,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Adidoadin,Auto-école la Colombe de Dieu Annexe,Non agréée,False,,5.0000,1.1879,6.2065,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_729a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agbalepedo Dabla Kope,Auto-école BM FEOP,Non agréée,False,,,1.2053,6.1996,False,GOLFE
+7111a9c0_19415ae4b4d_729b,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be,Auto-école ONG Domino,Agréée,True,90053418,5.0000,1.2453,6.1448,True,GOLFE
+7111a9c0_19415ae4b4d_729c,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Houveme,Auto-école la Référence Houvémé,Agréée,True,,6.0000,1.2492,6.1480,True,GOLFE
+7111a9c0_19415ae4b4d_729d,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Souza Kotokoukodzi,Auto-école Saint Antoine de Padoue,Agréée,True,91344868,6.0000,1.2544,6.1361,True,GOLFE
+7111a9c0_19415ae4b4d_729e,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Be Bassadji,Auto-école Emmanuel Jules,Agréée,True,,6.0000,1.2358,6.1435,True,GOLFE
+7111a9c0_19415ae4b4d_729f,Maritime,GOLFE,Golfe,Golfe 7,Aflao-Sagbado,Akato Deme,Auto-école la Liberté Akato,Antenne agréée,True,Non Loin du Carrefour Akato Deme,6.0000,1.0990,6.2034,True,GOLFE
+7111a9c0_19415ae4b4d_72a0,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Gbossime,Auto-école Basileia Gbossimé,Antenne agréée,True,,6.0000,1.2048,6.1590,True,GOLFE
+7111a9c0_19415ae4b4d_72a1,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Hedze,Auto-école Saint Kizito Bè Hédzé,Antenne agréée,True,,6.0000,1.2439,6.1477,True,GOLFE
+7111a9c0_19415ae4b4d_72a2,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Ablogame,Auto-école THV,Non agréée,False,,6.0000,1.2559,6.1365,True,GOLFE
+7111a9c0_19415ae4b4d_72a3,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Gbenyedji,Auto-école Diipesha,Non agréée,False,,6.0000,1.2555,6.1479,True,GOLFE
+7111a9c0_19415ae4b4d_72a4,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Kpota,Auto-école Rapha Bè Kpota,Agréée,True,,6.0000,1.2467,6.1528,True,GOLFE
+7111a9c0_19415ae4b4d_72a5,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Ablogame,Auto-école du Mono,Non agréée,False,91991803,6.0000,1.2615,6.1366,True,GOLFE
+7111a9c0_19415ae4b4d_72a6,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Kpota,Auto-école Pas de Temps,Agréée,True,90243911,6.0000,1.2449,6.1524,True,GOLFE
+7111a9c0_19415ae4b4d_72a7,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Souza Netime,Auto-école le Genie Souza Nètimé,Antenne agréée,True,13BP: 538 Lomé-togo,6.0000,1.2358,6.1371,True,GOLFE
+7111a9c0_19415ae4b4d_72a8,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be-kpota,Auto-école la Lumiere,Non agréée,False,,5.0000,1.2660,6.1575,True,GOLFE
+7111a9c0_19415ae4b4d_72a9,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Souzanetime,Auto-école Richmond,Non agréée,False,98736078,5.0000,1.2432,6.1378,True,GOLFE
+7111a9c0_19415ae4b4d_72aa,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Akodessewa,Auto-école Moderne,Non agréée,False,01BP1383,6.0000,1.2650,6.1539,True,GOLFE
+7111a9c0_19415ae4b4d_72ab,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sogbossito,Auto-école St GK,Non agréée,False,,6.0000,1.1716,6.2526,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72ac,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Hadi Kpota,Auto-école le Requin,Non agréée,False,93207625,5.0000,1.2666,6.1637,True,GOLFE
+7111a9c0_19415ae4b4d_72ad,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,N/a,Auto-école à Dieu la Gloire Bè,Antenne agréée,True,92055124,6.0000,1.2754,6.1758,True,GOLFE
+7111a9c0_19415ae4b4d_72ae,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Be Kpota,Auto-école Ecole JADS,Non agréée,False,92530809,5.0000,1.2622,6.1610,True,GOLFE
+7111a9c0_19415ae4b4d_72af,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Atiegou,Auto-école le Professeur,Agréée,True,90134934/99953737,6.0000,1.2676,6.1781,True,GOLFE
+7111a9c0_19415ae4b4d_72b0,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Be Kpota,Auto-école J.charmer,Non agréée,False,98447616/91694261,5.0000,1.2414,6.1512,True,GOLFE
+7111a9c0_19415ae4b4d_72b1,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Atiegou Kolas,Auto-école Emaris,Non agréée,False,91823279,6.0000,1.2756,6.1785,True,GOLFE
+7111a9c0_19415ae4b4d_72b2,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Logope,Auto-école le Genie Logopé,Agréée,True,,6.0000,1.1867,6.2339,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72b3,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Logope,Auto-école Awara,Agréée,True,Kossigan,6.0000,1.1851,6.2346,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72b4,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Logope,Auto-école KMK Sarl Annexe,Non agréée,False,,6.0000,1.1821,6.2301,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72b5,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Afame,Auto-école le Genie Afamé,Antenne agréée,True,BP 4234,5.0000,1.2791,6.1689,True,GOLFE
+7111a9c0_19415ae4b4d_72b6,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Adakpame,Auto-école Dieu Merci,Non agréée,False,92806935,5.0000,1.2918,6.1697,True,GOLFE
+7111a9c0_19415ae4b4d_72b7,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Zoro Bar,Auto-école Saint Kizito Zoro Bar,Antenne agréée,True,90997375,5.0000,1.2831,6.1670,True,GOLFE
+7111a9c0_19415ae4b4d_72b8,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Kagome,Auto-école Saint Kizito Kagomé,Antenne agréée,True,,5.0000,1.2984,6.1678,True,GOLFE
+7111a9c0_19415ae4b4d_72b9,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Sabeto,Auto-école la Puissance Divine Sabeto,Non agréée,False,98949126,6.0000,1.2821,6.1740,True,GOLFE
+7111a9c0_19415ae4b4d_72ba,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Adakpame,Auto-école la Puissance Divine Adakpamé,Non agréée,False,,6.0000,1.2897,6.1711,True,GOLFE
+7111a9c0_19415ae4b4d_72bb,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Kelegougan,Auto-école l'étoile,Non agréée,False,,6.0000,1.2406,6.2166,False,AGOE NYIVE
+7111a9c0_19415ae4b4d_72bc,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Adakpame,Auto-école Dieu Merci Adakpamé,Non agréée,False,,6.0000,1.2891,6.1676,True,GOLFE
+7111a9c0_19415ae4b4d_72bd,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Nukafu,Auto-école St Paul,Non agréée,False,,6.0000,1.2418,6.1582,True,GOLFE
+7111a9c0_19415ae4b4d_72be,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Togo 2000,Auto-école Malembe Malembe,Non agréée,False,,5.0000,1.2548,6.1889,True,GOLFE
+7111a9c0_19415ae4b4d_72bf,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Wuiti-nukafu,Auto-école Rapha Wuiti-Nukafu,Antenne agréée,True,,5.0000,1.2399,6.1631,True,GOLFE
+7111a9c0_19415ae4b4d_72c0,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Anoukopé,Auto-école la Perseverance,Non agréée,False,,5.0000,1.2197,6.1372,True,GOLFE
+7111a9c0_19415ae4b4d_72c1,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Be-clime,Auto-école CFC-PRO SARL,Non agréée,False,,6.0000,1.2088,6.1795,True,GOLFE
+7111a9c0_19415ae4b4d_72c2,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Tekoin Séminaire,Auto-école Petit Jesus,Non agréée,False,,6.0000,1.2113,6.1483,True,GOLFE
+7111a9c0_19415ae4b4d_72c3,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Carrefour Commando,Auto-école Amen,Non agréée,False,90189654,6.0000,1.1889,6.2415,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72c4,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Koshigan2,Auto-école le Citoyen,Non agréée,False,Agoè Koshigan 2,6.0000,1.1666,6.2435,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72c5,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agoe Assiyeye,Auto-école les Benis,Non agréée,False,,,1.2005,6.2352,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72c6,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agoe Minamadou,Auto-école le Reccord,Non agréée,False,,5.0000,1.1932,6.2248,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72c7,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Dekon,Auto-école Nzambe-Nzambe Dekon,Antenne agréée,True,92861212,6.0000,1.2342,6.1345,True,GOLFE
+7111a9c0_19415ae4b4d_72c8,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Kégué,Auto-école Nzambe-Nzambe Kegue,Agréée,True,Sise en face du stade de kegue,5.0000,1.2411,6.2013,True,GOLFE
+7111a9c0_19415ae4b4d_72c9,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Hedzranawoe,Auto-école Nzambe-Nzambe Hedzranawoe,Antenne agréée,True,,6.0000,1.2443,6.1704,True,GOLFE
+7111a9c0_19415ae4b4d_72ca,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Amoutiévé,Auto-école l'internationale Pilote,Non agréée,False,BP 4225,5.0000,1.2289,6.1387,True,GOLFE
+7111a9c0_19415ae4b4d_72cb,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Above,Auto-école Basileia  Abové,Agréée,True,,6.0000,1.2048,6.1653,True,GOLFE
+7111a9c0_19415ae4b4d_72cc,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Nyekonakpoe,Auto-école la Maitrise,Agréée,True,01BP 5040,6.0000,1.2043,6.1267,True,GOLFE
+7111a9c0_19415ae4b4d_72cd,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Kassamblaca,Auto-école le Gouverneur,Agréée,True,BP 2803,6.0000,1.2068,6.1529,True,GOLFE
+7111a9c0_19415ae4b4d_72ce,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Nukafu,Auto-école Deo Compassion,Agréée,True,92233574,5.0000,1.2381,6.1590,True,GOLFE
+7111a9c0_19415ae4b4d_72cf,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Tinga,Auto-école Nzambe Nzambe Tinga,Antenne agréée,True,,5.0000,1.2482,6.2012,True,GOLFE
+7111a9c0_19415ae4b4d_72d0,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Tokoin Séminaire,Auto-école OCDI,Agréée,True,07BP448,5.0000,1.2098,6.1491,True,GOLFE
+7111a9c0_19415ae4b4d_72d1,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Nyekonakpoe,Auto-école FCAM,Agréée,True,,6.0000,1.2028,6.1264,True,GOLFE
+7111a9c0_19415ae4b4d_72d2,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Nyekonakpoe,Auto-école la Patience,Non agréée,False,,5.0000,1.2137,6.1315,True,GOLFE
+7111a9c0_19415ae4b4d_72d3,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Nukafu,Auto-école AE,Non agréée,False,,5.0000,1.2336,6.1583,True,GOLFE
+7111a9c0_19415ae4b4d_72d4,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Hedzranawoe,Auto-école Guilgal,Agréée,True,,6.0000,1.2418,6.1858,True,GOLFE
+7111a9c0_19415ae4b4d_72d5,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Gbadago,Auto-école Grace Of God,Agréée,True,,6.0000,1.2147,6.1485,True,GOLFE
+7111a9c0_19415ae4b4d_72d6,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Sanguera,Auto-école Freeway,Agréée,True,,6.0000,1.1210,6.2304,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72d7,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Dekpo,Auto-école Mega Succes,Non agréée,False,,6.0000,1.1172,6.2277,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72d8,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Logope,Auto-école la Classe,Non agréée,False,,6.0000,1.1588,6.2498,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72d9,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Sogbassito,Auto-école Gloire à Dieu Légbassito,Antenne agréée,True,,5.0000,1.1731,6.2476,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72da,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Logopé,Auto-école St Francois,Non agréée,False,98048999,5.0000,1.1577,6.2558,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_72db,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Fehing,Auto-école le Defi Septemtrion,Agréée,True,,7.0000,1.2179,9.5622,True,KOZAH
+7111a9c0_19415ae4b4d_72dc,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Ewaou,Auto-école Securite Pour Tous,Agréée,True,BP 679,5.0000,1.1975,9.5474,True,KOZAH
+7111a9c0_19415ae4b4d_72dd,Kara,ASSOLI,Assoli,Assoli 1,Bafilo,Kparantaou,Auto-école Bon Courage Kparatao,Antenne agréée,True,,5.0000,1.2464,9.3621,True,ASSOLI
+7111a9c0_19415ae4b4d_72de,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Andjaoude,Auto-école la Connaissance,Non agréée,False,,,1.2079,9.5590,True,KOZAH
+7111a9c0_19415ae4b4d_72df,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Zongo,Auto-école Agbeteo,Non agréée,False,,6.0000,1.1859,9.5451,True,KOZAH
+7111a9c0_19415ae4b4d_72e0,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Tomde,Auto-école la Bienvenue,Non agréée,False,,7.0000,1.2051,9.5566,True,KOZAH
+7111a9c0_19415ae4b4d_72e1,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Welade,Auto-école Pugnus Dei Welade,Agréée,True,,6.0000,1.1934,9.5573,True,KOZAH
+7111a9c0_19415ae4b4d_72e2,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Patassoukome,Auto-école les Grands Patassoukomé,Antenne agréée,True,,6.0000,1.1883,9.5474,True,KOZAH
+7111a9c0_19415ae4b4d_72e3,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Ewaou,Auto-école Bon Courage Awaou,Agréée,True,BP 292,6.0000,1.1974,9.5456,True,KOZAH
+7111a9c0_19415ae4b4d_72e4,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Tomde,Auto-école le Sauveur Vient,Agréée,True,BP 147,6.0000,1.2026,9.5516,True,KOZAH
+7111a9c0_19415ae4b4d_72e5,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Tchalode,Auto-école de la Kozah,Non agréée,False,,7.0000,1.1931,9.5682,True,KOZAH
+7111a9c0_19415ae4b4d_72e6,Kara,KOZAH,Kozah,Kozah 1,Commune De Kara,Ewoou,Auto-école Sajer,Non agréée,False,,6.0000,1.1915,9.5486,True,KOZAH
+7111a9c0_19415ae4b4d_72e7,Kara,BASSAR,Bassar,Bassar 1,Bassar,Nangbani,Auto-école la Satisfaction,Non agréée,False,,7.0000,0.7857,9.2723,True,BASSAR
+7111a9c0_19415ae4b4d_72e8,Kara,BASSAR,Bassar,Bassar 1,Bassar,Biakpabe,Auto-école les Intégrés,Non agréée,False,,6.0000,0.7800,9.2735,True,BASSAR
+7111a9c0_19415ae4b4d_72e9,Maritime,LACS,Lacs,Lacs 3,Gbodjomé,Agbodan,Auto-école Saint Jules Agbodan,Antenne agréée,True,99915996,6.0000,1.4165,6.2067,True,LACS
+7111a9c0_19415ae4b4d_72ea,Maritime,LACS,Lacs,Lacs 3,Gbodjomé,Agbavi,Auto-école Damaris Agbavi,Antenne agréée,True,90047716,6.0000,1.3947,6.1897,True,LACS
+7111a9c0_19415ae4b4d_72eb,Maritime,LACS,Lacs,Lacs 4,Anfoin,Afoin Kpota,Auto-école le Berger,Non agréée,False,,6.0000,1.6101,6.3272,True,LACS
+7111a9c0_19415ae4b4d_72ec,Maritime,ZIO,Zio,Zio 1,Tsévié,Agbalipe,Auto-école Merciful God,Agréée,True,BP 78 Tsévié,6.0000,1.2126,6.4319,True,ZIO
+7111a9c0_19415ae4b4d_72ed,Maritime,LACS,Lacs,Lacs 2,Aklakou,Aklakou Noblokome,Le Renouveau Centre de Formation Et d Éducation Routiere Aklakou,Non renseigné,False,,6.0000,1.7121,6.3385,True,LACS
+7111a9c0_19415ae4b4d_72ee,Maritime,VO,Vo,Vo 1,Vogan,Yesuvito,Auto-école Domino,Agréée,True,99463827/91825854/98564654,6.0000,1.5296,6.3336,True,VO
+7111a9c0_19415ae4b4d_72ef,Maritime,BAS MONO,Bas-Mono,Bas-Mono 1,Afagnangan,Agbleta,Auto-école Musai Togo,Non agréée,False,98254049 / 99044122,7.0000,1.6253,6.4934,True,BAS MONO
+7111a9c0_19415ae4b4d_72f0,Maritime,VO,Vo,Vo 1,Vogan,Agbemavo,Auto-école Saint Kizito Agbemavo,Antenne agréée,True,98840953 Vogan,6.0000,1.5233,6.3405,True,VO
+7111a9c0_19415ae4b4d_72f1,Maritime,LACS,Lacs,Lacs 1,Canton D’Aneho,Amadoto,Auto-école Levireste,Non agréée,False,,6.0000,1.6139,6.2385,True,LACS
+7111a9c0_19415ae4b4d_72f2,Maritime,YOTO,Yoto,Yoto 1,Tabligbo,Cite A,Auto-école Amea,Non agréée,False,Cite A -togo,6.0000,1.4962,6.5952,True,YOTO
+7111a9c0_19415ae4b4d_72f3,Maritime,VO,Vo,Vo 1,Vogan,Lom Nava,Auto-école  Nazareth,Non agréée,False,22485190/99553240/93737888,6.0000,1.5365,6.3325,True,VO
+7111a9c0_19415ae4b4d_72f4,Plateaux,WAWA,Wawa,Wawa 1,Badou,Badou Ville,Auto-école Radji Badou,Antenne agréée,True,90136290,6.0000,0.6072,7.5850,True,WAWA
+7111a9c0_19415ae4b4d_72f5,Plateaux,WAWA,Wawa,Wawa 1,Badou,Badou Ville,Auto-école le Succès Badou,Antenne agréée,True,90683042,6.0000,0.6061,7.5868,True,WAWA
+7111a9c0_19415ae4b4d_72f6,Plateaux,OGOU,Ogou,Ogou 1,Djama,Agbonou Gare,Auto-école Radji Agbonou Gare,Agréée,True,BP: 437,6.0000,1.1556,7.5144,True,OGOU
+7111a9c0_19415ae4b4d_72f7,Plateaux,AMOU,Amou,Amou 2,Amou-Oblo,Amou Oblo,Auto-école El Dorado,Non agréée,False,,6.0000,0.8667,7.3862,True,AMOU
+7111a9c0_19415ae4b4d_72f8,Plateaux,ANIE,Anié,Anié 1,Anié,Anie,Auto-école Alhamoudou,Agréée,True,,6.0000,1.1934,7.7763,True,ANIE
+7111a9c0_19415ae4b4d_72f9,Plateaux,AGOU,Agou,Agou 1,Agou-Tavié,Gadjepe,Auto-école le Permis Gadjépé,Non agréée,False,,6.0000,0.7178,6.8470,True,AGOU
+7111a9c0_19415ae4b4d_72fa,Plateaux,KLOTO,Kloto,Kloto 1,Agome-Kpalime,Totsoanyi,Auto-école Dieu Seul T'aime,Agréée,True,,6.0000,0.6313,6.9088,True,KLOTO
+7111a9c0_19415ae4b4d_72fb,Plateaux,KLOTO,Kloto,Kloto 1,Agome-Kpalime,Noumetukondzi,Auto-école Ouro,Agréée,True,,6.0000,0.6355,6.9079,True,KLOTO
+7111a9c0_19415ae4b4d_72fc,Plateaux,KPELE,Kpélé,Kpélé 1,Kpélé-Novivé,Adeta,Auto-école Radji Adéta,Antenne agréée,True,Adeta,5.0000,0.7318,7.1211,True,KPELE
+7111a9c0_19415ae4b4d_72fd,Plateaux,KLOTO,Kloto,Kloto 1,Agome-Kpalime,Kpalime,Auto-école Gloire à Dieu Kpalimé,Agréée,True,,6.0000,0.6350,6.8997,True,KLOTO
+7111a9c0_19415ae4b4d_72fe,Savanes,CINKASSE,Cinkassé,Cinkassé 1,Cinkassé,Lantaba,Auto-école Prospera,Non agréée,False,,6.0000,0.0080,11.1000,True,CINKASSE
+7111a9c0_19415ae4b4d_72ff,Savanes,TONE,Tône,Tône 1,Dapaong,Tantigou,Auto-école Yendam,Non agréée,False,,6.0000,0.1956,10.8634,True,TONE
+7111a9c0_19415ae4b4d_7300,Savanes,TONE,Tône,Tône 1,Dapaong,Timgbal,Auto-école Ak Prosper Tin-Salingue Timgdal,Antenne agréée,True,,6.0000,0.2034,10.8759,True,TONE
+7111a9c0_19415ae4b4d_7301,Savanes,TONE,Tône,Tône 1,Dapaong,Boumonga-ba,Auto-école le Défi,Non agréée,False,92101984,6.0000,0.2114,10.8566,True,TONE
+7111a9c0_19415ae4b4d_7302,Savanes,TONE,Tône,Tône 1,Dapaong,Orkoiré,Auto-école Prosper AK,Agréée,True,,6.0000,0.2104,10.8567,True,TONE
+7111a9c0_19415ae4b4d_7303,Savanes,TONE,Tône,Tône 1,Dapaong,Kombonloaga,Auto-école les Grands Kombonloaga,Agréée,True,,6.0000,0.1995,10.8698,True,TONE
+7111a9c0_19415ae4b4d_7304,Savanes,OTI,Oti,Oti 1,Mango,Sangbana,Auto-école Prosperak Annex Mango,Non agréée,False,90857026,6.0000,0.4757,10.3539,True,OTI
+7111a9c0_19415ae4b4d_7305,Savanes,OTI,Oti,Oti 1,Mango,Gono,Auto-école Sawari,Non agréée,False,A Côté de L'église Catholique Mango,5.0000,0.4748,10.3545,True,OTI
+7111a9c0_19415ae4b4d_7306,Savanes,OTI,Oti,Oti 2,Barkoissi,Chef Canton,Auto-école la delivrance,Non agréée,False,93237514,5.0000,0.3030,10.5532,True,OTI
+7111a9c0_19415ae4b4d_7307,Savanes,CINKASSE,Cinkassé,Cinkassé 1,Cinkassé,Cinkanssé Langtaba ,Auto-école AK Prospere Tin-Salingue Cinkanssé,Agréée,True,90 57 37 37,7.0000,0.0081,11.0999,True,CINKASSE
+7111a9c0_19415ae4b4d_7308,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Hedzranawoe,Auto-école Audacieux,Agréée,True,,6.0000,1.2445,6.1914,True,GOLFE
+7111a9c0_19415ae4b4d_7309,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Amadahome,Auto-école Ava Togo Amadahomé,Non agréée,False,,6.0000,1.1509,6.2035,True,GOLFE
+7111a9c0_19415ae4b4d_730a,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agoè Fiovi,Auto-école Blessing,Agréée,True,08Bp 81065,6.0000,1.1912,6.2393,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_730b,Maritime,GOLFE,Golfe,Golfe 2,Bè-Centre,Attiegou,Auto-école ESCA (Ecole Supérieure de Conduite Automobile),Agréée,True,BP 60257 lomé Togo,6.0000,1.2630,6.1965,True,GOLFE
+7111a9c0_19415ae4b4d_730c,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Cacaveli,Auto-école Essofa,Agréée,True,,6.0000,1.1978,6.2098,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_730d,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Tokoin Wuiti,Auto-école Forrever conduite,Agréée,True,,6.0000,1.2301,6.1674,True,GOLFE
+7111a9c0_19415ae4b4d_730e,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Demakpoe,Auto-école la Fierté,Agréée,True,"Sise à agoe Demakpoe sur la voie d'assiyeye échangeur peu avant les rails côté ouest, Lome",6.0000,1.2024,6.2375,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_730f,Plateaux,OGOU,Ogou,Ogou 1,Gnagna,Atakpame,Auto-école le Succès Atakpamé,Agréée,True,70246230,5.0000,1.1553,7.4981,True,OGOU
+7111a9c0_19415ae4b4d_7310,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Houmbi,Auto-école le Paraclet Houmbi,Agréée,True,Sise à agir koffi Manou en face du bar palais russ,6.0000,1.2278,6.2197,True,AGOE NYIVE
+7111a9c0_19415ae4b4d_7311,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Tokoin Wuti ,Auto-école le Salut,Agréée,True,Sise en face du lycée de tokoin entre l'hôte eda oba et la dpj lome,6.0000,1.2311,6.1526,True,GOLFE
+7111a9c0_19415ae4b4d_7312,Maritime,GOLFE,Golfe,Golfe 3,Bè-Ouest,Forrever,Auto-école L'Itineraire Annexe Forever,Antenne agréée,True,"Sise tokoin forrever, derrière le siège du plan togo",6.0000,1.2286,6.1605,True,GOLFE
+7111a9c0_19415ae4b4d_7313,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Bè Château,Auto-école Pasteur,Agréée,True,"Rue de l'Entente, ex rue de l'Ocam face hôtel de la Paix, Bè château",5.0000,1.2470,6.1330,True,GOLFE
+7111a9c0_19415ae4b4d_7314,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Avedji Wessome,Auto-école Romana's,Agréée,True,"Non loin des rails face pharmacie Victoir, st AVEDJI wessome",6.0000,1.1712,6.1926,True,GOLFE
+7111a9c0_19415ae4b4d_7315,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidoadin,Auto-école Saint Elie,Agréée,True,"Sise à adidoadin, non loin du carrefour bodjona,en face de la direction sanol",6.0000,1.1892,6.2052,True,GOLFE
+7111a9c0_19415ae4b4d_7316,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Quartier Des Étoiles,Auto-école Saint Imamiah quartier des Etoiles,Agréée,True,68 rue 52 Ayatome 90710127,6.0000,1.2208,6.1322,True,GOLFE
+7111a9c0_19415ae4b4d_7317,Maritime,GOLFE,Golfe,Golfe 6,Baguida,Avepozo,Auto-école Saint Jules Avépozo,Agréée,True,Avepozo,6.0000,1.3417,6.1685,True,GOLFE
+7111a9c0_19415ae4b4d_7318,Maritime,GOLFE,Golfe,Golfe 1,Bè-Est,Adakpamé,Auto-école Saint Kizito Adakpamé,Agréée,True,,6.0000,1.2679,6.1635,True,GOLFE
+7111a9c0_19415ae4b4d_7319,Maritime,AGOE NYIVE,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Avédji,Auto-école Saint Max,Agréée,True,,6.0000,1.1815,6.2076,False,GOLFE
+7111a9c0_19415ae4b4d_731a,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidoadin,Auto-école Sous les Ailles de Dieu Adidoadin,Agréée,True,,6.0000,1.1874,6.2028,True,GOLFE
+7111a9c0_19415ae4b4d_731b,Maritime,GOLFE,Golfe,Golfe 5,Aflao-Gakli,Adidogomé,Auto-école Zebra Adidogomé,Agréée,True,,6.0000,1.1592,6.1913,True,GOLFE
+7111a9c0_19415ae4b4d_731c,Maritime,GOLFE,Golfe,Golfe 4,Amoutivé,Nyékonakpoè,Auto-école Lobokona Nzambe,Agréée,True,,5.0000,1.2057,6.1299,True,GOLFE

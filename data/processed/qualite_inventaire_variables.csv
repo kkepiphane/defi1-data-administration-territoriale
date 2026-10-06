@@ -1,0 +1,65 @@
+﻿fichier,variable,valeurs_distinctes,manquantes,exemple
+observationdata-akkouh.csv,indicateur,1,0,Evolution du parc automobile immatriculé par type de véhicul
+observationdata-akkouh.csv,types-de-vehicule,8,0,Voitues
+observationdata-akkouh.csv,Unit,1,0,Nombre
+observationdata-akkouh.csv,Date,33,0,1990
+observationdata-akkouh.csv,Value,256,0,3814
+observationdata-wklhvw.csv,indicateur,1,0,Evolution du parc automobile immatriculé par type de véhicul
+observationdata-wklhvw.csv,automobile,10,0,Total 4 Roues
+observationdata-wklhvw.csv,Unit,1,0,Nombre
+observationdata-wklhvw.csv,Date,7,0,2013
+observationdata-wklhvw.csv,Value,70,0,16273
+observationdata-hxdpzbg.csv,indicateur,13,0,Réseau total (chemins de fer-km)
+observationdata-hxdpzbg.csv,Unit,3,0,km
+observationdata-hxdpzbg.csv,Date,33,0,2000
+observationdata-hxdpzbg.csv,Value,187,0,548
+observationdata-wvtolmb.csv,indicateur,1,0,Nombre de permis de conduire délivrés par catégorie aux exam
+observationdata-wvtolmb.csv,categories-de-permis,7,0,Moto (A)
+observationdata-wvtolmb.csv,Unit,1,0,Nombre
+observationdata-wvtolmb.csv,Date,16,0,2007
+observationdata-wvtolmb.csv,Value,93,0,205
+observationdata-kwwolwb.csv,indicateur,1,0,Population résidente par découpage administratif et par sexe
+observationdata-kwwolwb.csv,découpage-administratif,745,0,TOGO
+observationdata-kwwolwb.csv,sexe,1,0,Total
+observationdata-kwwolwb.csv,Unit,1,0,Nombre
+observationdata-kwwolwb.csv,Date,1,0,2022
+observationdata-kwwolwb.csv,Value,743,0,8095498
+observationdata-tmdtnad.csv,indicateur,4,0,ROUTES REVETUES
+observationdata-tmdtnad.csv,tronçon,88,0,TOTAL
+observationdata-tmdtnad.csv,etat,5,0,TOTAL
+observationdata-tmdtnad.csv,Unit,1,0,km
+observationdata-tmdtnad.csv,Date,1,0,2020
+observationdata-tmdtnad.csv,Value,235,0,2198.47
+file-routes-routes-classees-18-12-2024-20-38-02.csv,FID,799,0,_mview_route_routes.fid--830921d_193db4998a0_759a
+file-routes-routes-classees-18-12-2024-20-38-02.csv,region_nom_bdd,5,0,Kara
+file-routes-routes-classees-18-12-2024-20-38-02.csv,prefecture_nom_bdd,38,0,Assoli
+file-routes-routes-classees-18-12-2024-20-38-02.csv,commune_nom_bdd,102,0,Assoli 1
+file-routes-routes-classees-18-12-2024-20-38-02.csv,canton_nom_bdd,244,0,Bafilo
+file-routes-routes-classees-18-12-2024-20-38-02.csv,voies_nbr,5,0,1
+file-routes-routes-classees-18-12-2024-20-38-02.csv,route_type,4,0,Route nationale non revêtue
+file-routes-routes-classees-18-12-2024-20-38-02.csv,route_classee,1,0,Oui
+file-routes-routes-classees-18-12-2024-20-38-02.csv,route_recouvrement,7,0,Terre amenagée
+file-routes-routes-classees-18-12-2024-20-38-02.csv,geometry,799,0,"MULTILINESTRING ((1.243850877516584 9.35150743927983, 1.2436"
+file-routes-routes-classees-18-12-2024-20-38-02.csv,route_nom,199,2,TGRKRTRN38 RN1 BAFILO-DAKO-RN17 BASSAR
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,FID,272,0,_mview_entreprisesvariees_entreprises_variees.fid-7111a9c0_1
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,region_nom_bdd,5,0,Centrale
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,prefecture_nom_bdd,24,0,Tchaoudjo
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,commune_nom_bdd,40,0,Tchaoudjo 1
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,canton_nom_bdd,42,0,Sokodè (Komah)
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,nom_localite,194,0,Didaure
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,nom_etablissement,272,0,Auto-école Nouvelle
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,adresse_etablissement,102,0,Nsp
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,journee_ouverture,20,0,"{lundi,mardi,mercredi,jeudi,vendredi,samedi}"
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,activite_categorie,1,0,{Auto-école}
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,geometry,272,0,POINT (1.1381004717211132 8.9831547852801)
+file-entreprises-auto-ecoles-02-01-2025-16-28-05.csv,agregation,4,0,Agréée
+routes-routes-classees.csv,No.,24,0,1
+routes-routes-classees.csv,Nom du champ,24,0,region_nom_bdd
+routes-routes-classees.csv,Question,7,17,ID du canton
+routes-routes-classees.csv,Description,4,0,xsd:string
+routes-routes-classees.csv,Type du champ,4,0,string
+entreprises-auto-ecoles.csv,No.,83,0,1
+entreprises-auto-ecoles.csv,Nom du champ,83,0,region_nom_bdd
+entreprises-auto-ecoles.csv,Question,78,5,ID du canton
+entreprises-auto-ecoles.csv,Description,3,0,xsd:string
+entreprises-auto-ecoles.csv,Type du champ,3,0,string

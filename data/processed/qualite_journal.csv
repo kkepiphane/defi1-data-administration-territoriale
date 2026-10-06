@@ -1,0 +1,26 @@
+﻿n,source,operation,detail,lignes_concernees
+1,Toutes sources,Lecture en texte brut,Fichiers ouverts en lecture seule ; empreinte SHA-256 relevée pour prouver que les sources ne sont pas modifiées,2957
+2,Population,Correction de libellé,« TOTOAL AVE » → « AVE »,1
+3,Population,Correction de libellé,« BINAH2 » → « BINAH 2 »,1
+4,Population,Reconstitution de la hiérarchie administrative,"6 régions (dont le District autonome du Grand Lomé), 39 préfectures, 116 communes, 597 cantons — détectés par l'ordre des lignes et la numérotation des communes",759
+5,Population,Rattachement du Grand Lomé (DAGL) à la région Maritime,"Les bases routes et auto-écoles rangent Golfe et Agoè-Nyivé en Maritime ; la population DAGL (2 188 376 hab.) est donc agrégée à Maritime au niveau régional, et reste distincte au niveau préfectoral",2
+6,Immatriculations,Harmonisation des types de véhicules,"« Voitues » → « Voitures » (coquille) ; « Tracteurs » → « Tracteurs routiers » ; « 2 roues et assimilées » → « Deux-roues » ; 7 types regroupés en 5 familles (Deux-roues, Voitures, Utilitaires légers, Poids lourds, Transport collectif)",231
+7,Immatriculations,Retrait de la ligne « Total »,Total recalculé à partir des types retenus par les filtres,33
+8,Immatriculations (détail),Extraction de la ventilation des deux-roues par cylindrée,Seule information absente du fichier principal ; les autres lignes sont des doublons contrôlés,14
+9,Séries nationales,Codification des 13 indicateurs,"Libellés longs remplacés par des codes stables (accidents, deces, blesses, immat_4r…) ; table de correspondance dans src/config.py",209
+10,Séries nationales,Correction du libellé du taux publié,"« Accidents mortels /100.000 hab » → « Accidents pour 100 000 habitants » (démonstration par le calcul, voir contrôles)",13
+11,Séries nationales,Dénominateur de population annuel,Population implicite = accidents ÷ taux publié × 100 000 (seule série annuelle de population disponible) ; recoupée avec le RGPH-5 en 2022,13
+12,Permis de conduire,Harmonisation des catégories,« Voiture légèr (B) » → « B · Véhicule léger » (coquille) ; codes A à F placés en tête de libellé,90
+13,Permis de conduire,Recodage 2013,Zéro transformé en valeur manquante,1
+14,Auto-écoles,Harmonisation du statut d'agrément,« Néant » → « Non renseigné » (2 ligne(s)) ; « Agréée » et « Antenne agréée » regroupées sous « agréée » pour les ratios,272
+15,Auto-écoles,Codage des adresses manquantes,"« Nsp », « Néant », « Aucun(e) » → valeur manquante",173
+16,Auto-écoles,Normalisation des jours d'ouverture,"Listes {lundi,…} de formats variables → nombre de jours ; « Nsp » → manquant",16
+17,Routes classées (géométries),Harmonisation des revêtements,"Accents restaurés (« amenagée » → « aménagée », « Beton » → « Béton ») ; regroupement Revêtu (bitume, béton, pavé) / Non revêtu (terre, gravier)",799
+18,État du réseau routier,État « Travaux » absent → 0 km,La ligne TRAVAUX n'existe que pour les tronçons concernés ; la somme Bon + Moyen + Mauvais égale le total pour les autres (contrôle ci-dessous),69
+19,État du réseau routier,Voiries urbaines isolées,"Publiées en un seul agrégat national sans tronçon : exclues des comparaisons régionales, incluses dans le total national",2
+20,État du réseau routier,Libellés d'affichage des tronçons,Code technique de gestion (ex. « TGRPRR ») retiré à l'affichage ; libellé source conservé pour la traçabilité,84
+21,Limites administratives (OCHA),Harmonisation des noms OCHA,« Naki-Ouest » → Kpendjal-Ouest ; « Plaine du Mo » → Mô ; « Lome Commune » fusionnée avec Golfe (le RGPH-5 compte Lomé dans la préfecture du Golfe),3
+22,Limites administratives (OCHA),Polygones régionaux,Fusion des préfectures selon la région d'analyse (5 régions),5
+23,Routes classées (géométries),Calcul des longueurs,Longueur géodésique sur l'ellipsoïde WGS84 (pyproj.Geod) ; le champ troncon_longueur_km du dictionnaire est absent de l'export,799
+24,État du réseau routier,Rattachement régional des tronçons,Code régional du libellé : 64 ; Géométrie appariée : 16 ; Toponymes (RGPH-5) : 4 (méthode détaillée dans le rapport),84
+25,Routes classées (géométries),Report de l'état sur les segments,597 segments (3 037 km) reçoivent la répartition par état de leur tronçon ; couleur = état majoritaire du tronçon ; les autres sont « non renseignés »,597

@@ -1,0 +1,28 @@
+{
+  "population_2022": 8095498.0,
+  "source_limites": "OCHA COD-AB Togo v02 (limites des préfectures, valides au 07/01/2021), plateforme HDX https://data.humdata.org/dataset/cod-ab-tgo — licence CC BY-IGO",
+  "flags": {
+    "Deux-roues": {
+      "1995": "Rupture de niveau"
+    },
+    "Accidents": {
+      "2010": "Valeur atypique",
+      "2015": "Valeur atypique"
+    },
+    "A · Moto": {
+      "2019": "Valeur atypique",
+      "2022": "Valeur atypique"
+    },
+    "B · Véhicule léger": {
+      "2016": "Rupture de niveau"
+    },
+    "C · Poids lourd": {
+      "2015": "Valeur atypique"
+    },
+    "E · Semi-remorque": {
+      "2016": "Valeur atypique",
+      "2017": "Rupture de niveau"
+    }
+  },
+  "build_seconds": 3.17
+}

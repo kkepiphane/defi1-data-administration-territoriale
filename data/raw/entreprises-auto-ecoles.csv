@@ -1,0 +1,84 @@
+No.,Nom du champ,Question,Description,Type du champ
+1,region_nom_bdd,,xsd:string,string
+2,prefecture_nom_bdd,,xsd:string,string
+3,commune_nom_bdd,,xsd:string,string
+4,canton_nom_bdd,,xsd:string,string
+5,id,,xsd:int,int
+6,canton_id_bdd,ID du canton,xsd:string,string
+7,nom_localite,Nom de la localité,xsd:string,string
+8,etab_id_collecte,ID textuel de l'établissement,xsd:string,string
+9,nom_etablissement,Nom de l'établissement commercial touristique,xsd:string,string
+10,adresse_etablissement,Adresse de l'établissement commercial touristique,xsd:string,string
+11,journee_ouverture,Journées d'ouverture,xsd:string,string
+12,horaire_ouverture,Horaires d'ouverture,xsd:string,string
+13,date_creation_etablissement,Année de création de l'établissement touristique commercial,xsd:string,string
+14,programme,Cet établissement a-t-il été construit dans le cadre d'un programme ?,xsd:string,string
+15,programme_nom,"Si oui, lequel ?",xsd:string,string
+16,programme_date,"Si oui, en quelle année ?",xsd:string,string
+17,org_reconnu,L'établissement est il reconnu par l'état ?,xsd:string,string
+18,interlocuteur_presence,Y a-t-il un interlocuteur?,xsd:string,string
+19,interlocuteur_responsable,L'interlocuteur est-il le responsable de l'établissement ?,xsd:string,string
+20,si_non_fonction,"Si non, fonction de l'interlocuteur",xsd:string,string
+21,si_non_prenom,"Si non, NOM Prénom de l'interlocuteur",xsd:string,string
+22,interlocuteur_genre,"Si non, genre de l'interlocuteur",xsd:string,string
+23,si_non_numero,"Si non, numéro de téléphone de l'interlocuteur",xsd:string,string
+24,nom_prenom_responsable,NOM et Prénom du responsable,xsd:string,string
+25,genre_responsable,Genre du responsable,xsd:string,string
+26,fonction_responsable,Fonction du responsable,xsd:string,string
+27,telephone_responsable,Téléphone responsable,xsd:string,string
+28,mail_responsable,Mail du responsable,xsd:string,string
+29,personnel_nombre,Nombre total de personnel,xsd:int,int
+30,personnel_homme,Nombre de personnel homme,xsd:int,int
+31,personnel_femmes,Nombre de personnel femme,xsd:int,int
+32,guide_nb,Nombre de guides totaux,xsd:int,int
+33,visiteur_mensuel_nb,Nombre de visiteurs mensuels,xsd:string,string
+34,visteur_2021,Nombre de visiteurs 2021,xsd:int,int
+35,visteur_2020,Nombre de visiteurs 2020,xsd:int,int
+36,visteur_2019,Nombre de visiteurs 2019,xsd:int,int
+37,org_cfe,Nom de l'organisation en charge de l'établissement,xsd:string,string
+38,org_nom,Numéro CFE de l'organisation,xsd:string,string
+39,activite_categorie,Catégorie de l'activité,xsd:string,string
+40,activite,Description de l'activité de l'établissement touristique,xsd:string,string
+41,restaurant,Y a-t-il un restaurant/une buvette ?,xsd:string,string
+42,hotel,Y a-t-il un hôtel ?,xsd:string,string
+43,souvenir_vente,Des souvenirs sont-ils vendus?,xsd:string,string
+44,vente_dispo,D'autres produits ou services sont-ils disponibles?,xsd:string,string
+45,vente_dispo_detail,Détail des produits disponibles,xsd:string,string
+46,eau_acces,Y a-t-il accès à l'eau ?,xsd:string,string
+47,eau_source,"Si oui, quelle source ?",xsd:string,string
+48,eau_source_autre,Autre type de source d'eau,xsd:string,string
+49,eau_pression,"Si oui, quelle pression ?",xsd:string,string
+50,debit_mesure,"Combien de secondes pour remplir une bouteille de 1,5L?",xsd:string,string
+51,eau_qualite,"Si oui, qualité de l'eau ?",xsd:string,string
+52,eau_acces_temps,"Si oui, temps d'accès à l'eau ?",xsd:string,string
+53,lavage_mains,Y a-t-il des dispositifs pour le lavage des mains ?,xsd:string,string
+54,lavage_mains_type,Type de dispositifs de lavage de mains,xsd:string,string
+55,elec_acces,Y a-t-il accès à l'électricité ?,xsd:string,string
+56,elec_source,"Si oui, quelle source d'électricité ?",xsd:string,string
+57,elec_qualite,"Si oui, qualité d'accès ?",xsd:string,string
+58,elec_acces_temps,"Si oui, temps d'accès à l'électricité",xsd:string,string
+59,internet,Y a-t-il un réseau internet dédié?,xsd:string,string
+60,internet_type,"Si oui, type d'accès dédié ?",xsd:string,string
+61,internet_type_autre,Autre type d'internet dédié,xsd:string,string
+62,internet_reception,Recevez-vous internet ?,xsd:string,string
+63,internet_reception_type,Quel type ?,xsd:string,string
+64,internet_reception_qui,Quels réseaux disponibles ?,xsd:string,string
+65,toilettes,Y a-t-il des toilettes et/ou douches ?,xsd:string,string
+66,raccordage_toilettes,Type de raccordage,xsd:string,string
+67,douche_nombre,Nombre de douches,xsd:int,int
+68,nombre_latrines,Nombre de latrines debout,xsd:int,int
+69,nombre_wc,Nombre de WCs,xsd:int,int
+70,nombre_pissotieres,Nombre de pissotières,xsd:int,int
+71,separation_homme_femme,Y a-t-il une séparation entre hommes et femmes?,xsd:string,string
+72,rampe_handicape,Y a-t-il des rampes pour faciliter l'accès aux handicapés ?,xsd:string,string
+73,ordinateur_portable_nombre,Nombre d'ordinateurs portables,xsd:int,int
+74,ordinateur_portable_fonctionnel_nombre,Nombre d'ordinateurs portables fonctionnels,xsd:int,int
+75,ordinateur_poste_nombre,Nombre d'ordinateurs fixes,xsd:int,int
+76,ordinateur_poste_fonctionnels_nombre,Nombre d'ordinateurs fixes fonctionnels,xsd:int,int
+77,equipements_specifiques,"Autres équipements spécifiques (Imprimantes, Matériel dédié...)",xsd:string,string
+78,etat_batiment,Etat général de l'établissement ?,xsd:string,string
+79,batiment_nb,Nombre de batiments,xsd:int,int
+80,date_collecte,Date de la collecte,xsd:string,string
+81,date_mise_a_jour_collecte,Date de la mise à jour,xsd:string,string
+82,geometry,Géométrie,gml:Point,Point
+83,agregation,Agrégation,xsd:string,string

@@ -1,0 +1,7 @@
+dash>=4.0,<5
+plotly>=6.0,<8
+pandas>=2.2,<3
+numpy>=1.26,<3
+geopandas>=1.0,<2
+shapely>=2.0,<3
+pyproj>=3.6,<4

@@ -1,0 +1,53 @@
+﻿source,controle,resultat,statut
+Population,Valeurs numériques,759 / 759,Conforme
+Population,Millésime,2022 (une seule année),Information
+Population,Somme des 6 régions = Togo,8 095 498 / 8 095 498,Conforme
+Population,Somme des préfectures = région,6 / 6 régions conformes,Conforme
+Population,Somme des communes = préfecture,39 / 39 préfectures conformes,Conforme
+Population,Somme des cantons = commune,116 / 116 communes conformes,Conforme
+Population,Cantons en double dans une même commune,0,Conforme
+Population,Cantons homonymes (communes différentes),"6 libellé(s) : AGOTIME, ANYIGBE, ATSANVE, GAME, KAMINA, LOKO — distingués par leur commune de rattachement",Information
+Immatriculations,Dates valides (années 1900–2030),264 / 264 lignes,Conforme
+Immatriculations,Valeurs numériques,264 / 264 lignes,Conforme
+Immatriculations,Doublons (type × année),0 doublon(s),Conforme
+Immatriculations,Total publié = somme des 7 types,33 / 33 années conformes,Conforme
+Immatriculations,Continuité de la série,"1990–2022, années manquantes : aucune",Conforme
+Immatriculations (détail),Dates valides (années 1900–2030),70 / 70 lignes,Conforme
+Immatriculations (détail),Valeurs numériques,70 / 70 lignes,Conforme
+Immatriculations (détail),Deux-roues : 50–125 cm³ + > 125 cm³ = total deux-roues du fichier principal,7 / 7 années conformes,Conforme
+Immatriculations (détail),Voitures identiques au fichier principal,7 / 7 années,Conforme
+Séries nationales,Dates valides (années 1900–2030),209 / 209 lignes,Conforme
+Séries nationales,Valeurs numériques,209 / 209 lignes,Conforme
+Séries nationales,Doublons (indicateur × année),0 doublon(s),Conforme
+Séries nationales,Libellé « Accidents mortels /100.000 hab » : vérification du numérateur,"2022 : accidents / taux publié × 100 000 = 8 095 498 hab., soit 0,00 % d'écart avec le RGPH-5 (8 095 498) ; avec les décès, le taux serait 8,4 et non 92,7",Conforme
+Séries nationales,Couverture accidents / décès / blessés,"2010–2022 (13 années), échelle nationale uniquement",Information
+Immatriculations,4 roues et plus = série nationale « parc 4 roues et plus »,33 / 33 années conformes,Conforme
+Immatriculations,Deux-roues = série nationale « deux roues et assimilées »,9 / 9 années conformes,Conforme
+Permis de conduire,Dates valides (années 1900–2030),106 / 106 lignes,Conforme
+Permis de conduire,Valeurs numériques,106 / 106 lignes,Conforme
+Permis de conduire,Total publié = somme des 6 catégories,15 / 15 années conformes,Conforme
+Permis de conduire,Total par catégories = série nationale « permis délivrés »,15 / 15 années conformes,Conforme
+Auto-écoles,Valeurs manquantes (12 champs),0 cellule(s) vide(s),Conforme
+Auto-écoles,Identifiants uniques,0 doublon(s) d'identifiant,Conforme
+Auto-écoles,Coordonnées valides et situées dans l'emprise du Togo,272 / 272 points,Conforme
+Auto-écoles,Doublons nom × localité,0 doublon(s),Conforme
+Auto-écoles,Régions reconnues,272 / 272,Conforme
+Auto-écoles,Préfectures rattachées à la nomenclature population,24 / 24 préfectures,Conforme
+Routes classées (géométries),Identifiants uniques,0 doublon(s),Conforme
+Routes classées (géométries),Géométries dupliquées,0 segment(s) strictement identiques,Conforme
+Routes classées (géométries),Cohérence type de route / revêtement,754 / 799 segments cohérents,Écart
+Routes classées (géométries),Préfectures rattachées à la nomenclature population,38 / 38,Conforme
+État du réseau routier,Dates valides (années 1900–2030),371 / 371 lignes,Conforme
+État du réseau routier,Valeurs numériques,371 / 371 lignes,Conforme
+État du réseau routier,Millésime,2020 (photographie unique),Information
+État du réseau routier,Doublons (réseau × tronçon × état),0,Conforme
+État du réseau routier,"Bon + Moyen + Mauvais + Travaux = total du tronçon (± 0,05 km)",86 / 86 tronçons conformes,Conforme
+État du réseau routier,Somme des tronçons = total publié (Routes revêtues),"2 198,52 km contre 2 198,47 km",Conforme
+État du réseau routier,Somme des tronçons = total publié (Routes en terre),"964,97 km contre 964,96 km",Conforme
+Limites administratives (OCHA),Correspondance préfectures OCHA ↔ RGPH-5,39 / 39 préfectures appariées,Conforme
+Routes classées (géométries),Géométries lisibles et non vides,799 / 799 (invalides : 0),Conforme
+Routes classées (géométries),Segment situé dans la préfecture déclarée (point représentatif),"776 / 799 (97,1 %) ; écarts près des limites",Information
+Auto-écoles,Point situé dans la préfecture déclarée,"268 / 272 (98,5 %) ; la préfecture déclarée fait foi",Information
+Nomenclature,Mô : préfecture absente des bases routes et auto-écoles,0 segment(s) et 0 auto-école(s) situés dans son polygone OCHA → zéro cohérent avec la géographie,Conforme
+État du réseau routier,Région du code = région des géométries appariées,64 / 64 tronçons,Conforme
+État du réseau routier,Tronçons évalués retrouvés dans les géométries,"80 / 84 tronçons ; 3 077 / 3 163 km (97,3 %)",Information
